@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<div align="center">
+	<br><br><br><br><br>
+	<img src={{ url_for('static', filename = img) }} style="width:80%;height:80%">
+	<br><br><br><br><br><br>
+<font size="30">{{text}}</font>
+</div>
+
+</body>
+</html>
