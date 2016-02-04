@@ -9,7 +9,7 @@ Required Hardware
 
 
 0. Layout
-![Image of Layout](https://github.com/ykulah/garageDoor/blob/master/layout.jpg)
+![Image of Layout](https://github.com/ykulah/garageDoor/blob/master/docu/layout.jpg)
 1. Hardware Installation
 
 2. Server 
