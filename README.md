@@ -1,6 +1,7 @@
 # garageDoor
 
 This is my hobby project. The main idea of the project is opening the garage door by using my mobile phone. 
+
 Required Hardware
 - Raspberry pi 2 ~$40
 - Single channel relay (I used two channel relay) ~$2.5
