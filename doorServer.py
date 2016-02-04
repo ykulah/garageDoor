@@ -33,4 +33,4 @@ def openDoor(phrase):
 		return render_template('index.html', img="fail.svg", text="Check your URL.")   
 	
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=571)
+    app.run(host='0.0.0.0', port=8080)
