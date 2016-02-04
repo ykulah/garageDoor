@@ -3,7 +3,7 @@ import hashlib
 import RPi.GPIO as GPIO
 import time
 
-key = hashlib.sha224("quick%brownfox@jumpsover_thelazydog").hexdigest()
+key = hashlib.sha224("<favoritePassword>").hexdigest()
 print key
    
 from flask import Flask
