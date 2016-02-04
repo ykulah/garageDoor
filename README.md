@@ -14,4 +14,7 @@ Required Hardware
 
 2. Server 
 
+I used Python API of raspberry's GPIO pins and the server is also implemented in Python by using[Flask](http://flask.pocoo.org/). 
+
+
 3. Network
