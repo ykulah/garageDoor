@@ -40,6 +40,6 @@ The client software of your preferred dynamic-DNS server must be installed on yo
 
 After that, you need to forward the external port to your raspberrypi by using the control panel of your adsl modem/router. You can used default http port(80) as external port, and external port 80 should be forwarded to internal port 8080 (or your new garage door server port) 
 
-
+** without network configuration, you can use your system in the same network by using internal IP address of your raspberrypi.
 When you all set, just run <code>python doorServer.py</code>
 
