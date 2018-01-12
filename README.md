@@ -11,7 +11,7 @@ Required Hardware
 
 ### Layout
 ![Image of Layout](https://github.com/ykulah/garageDoor/blob/master/docu/layout.jpg)
-###Hardware Installation
+### Hardware Installation
 
 My remote controller is shown in the figure. I soldered a jumper cable both end of the button. These two cables will be connected to relay. The connection of relay and raspberrypi is also easy. Raspberrypi provides 5V and GND outputs for relay. Signal input of relay is the GPIO18 pin for my case.
 
